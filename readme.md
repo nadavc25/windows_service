@@ -15,7 +15,7 @@ The **Website Monitor Service** is a Python script that functions as a Windows s
 1. **Download Project:**
    - Clone the repository using Git:
      ```bash
-     git clone https://github.com/yourusername/website-monitor-service.git
+     git clone https://github.com/nadavc25/windows_service.git
      ```
 
 3. **Navigate to Project Directory:**
